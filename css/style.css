@@ -12,7 +12,13 @@ a:hover,
     text-decoration:none; 
     font-weight: bold;
 }
+.file{
+    border: 2px solid white;
+    padding: 40px;
+    padding-left: 50px;
+    
 
+}
 section {
     padding: 40px 0;
 }
