@@ -35,11 +35,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand em-text" href="main.html">Pixel</a>
+                <a class="navbar-brand em-text" href="main.php">Pixel</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="index.html">Home</a>
+                    <li class="active"><a href="main.php">Home</a>
                     </li>
                     <li><a href="about.html">About</a>
                     </li>
@@ -150,7 +150,7 @@
             <div class="row">
                 <div class="col-sm-6 col-xs-12">
                     <ul>
-                        <li><a href="main.html">Home</a></li>
+                        <li><a href="main.php">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="contact.html">Contact</a></li>
                         <li><a href="#">Privacy Policy</a></li>
